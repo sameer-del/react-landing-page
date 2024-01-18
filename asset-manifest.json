@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.b13b5dea.css",
+    "main.js": "/react-landing-page/static/js/main.ed71a158.js",
+    "static/media/sameer ahamed.resume.png": "/react-landing-page/static/media/sameer ahamed.resume.216c2f0236052dc98992.png",
+    "static/media/remove-home-page.png": "/react-landing-page/static/media/remove-home-page.94ce09e67dfb7827d75c.png",
+    "index.html": "/react-landing-page/index.html",
+    "main.b13b5dea.css.map": "/react-landing-page/static/css/main.b13b5dea.css.map",
+    "main.ed71a158.js.map": "/react-landing-page/static/js/main.ed71a158.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13b5dea.css",
+    "static/js/main.ed71a158.js"
+  ]
+}
